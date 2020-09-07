@@ -18,7 +18,7 @@ ___
 ___
 
 ## Analysis
-1. Start the Analyser.ipynb notebook
+1. Start the **Analyser.ipynb** notebook
 2. Change the value of the **path** variable in the noteboook to the directory where the datafiles are kept. Fill in other details such as **name_of_LC** and **temp**
 
 ![Path](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/Setting_path.png)
@@ -40,4 +40,4 @@ ___
 
 6. Repeat steps 3-5 for the different voltages for which the file exists.
 7. After analysing all the files you can run the next cell to plot the **ResponseTimes vs Applied Voltages** graph.
-8. Run the last cell to push the reults into a csv format in the output directory
+8. Run the last cell to push the results into a csv file in the output directory
