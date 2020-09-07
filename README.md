@@ -20,7 +20,9 @@ ___
 3. On running the cells, you will be asked for input voltage. Give the input. The code will seach for the file of format ```<temp>_<voltage>_2.csv``` and will let you know if it finds it
 
 ![Enter Voltage](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/EnterV.png)
+
 ![Entered Voltage](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/EnteredV.png)
+
 4. On finding the file, run the next cell to analyse the file. Output graph created in **path/Analysis** directory( will be created if it doesnt exist)
 ![Analysis](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/Analysis_graph.png)
 5. If you are satisfied with the graph and output response times, run the next cell to add the response times to a table which will be used to record **ResponseTimes vs Applied Voltages**
