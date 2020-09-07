@@ -17,6 +17,6 @@ ___
 3. On running the cells, you will be asked for input voltage. Give the input. The code will seach for the file of format ```<temp>_<voltage>_2.csv``` and will let you know if it finds it
 4. On finding the file, run the next cell to analyse the file. Output graph created in **path/Analysis** directory( will be created if it doesnt exist)
 5. If you are satisfied with the graph and output response times, run the next cell to add the response times to a table which will be used to record **ResponseTimes vs Applied Voltages**
-6. Repeat steps 6-8 for the different voltages for which the file exists.
-7. After analysing all the files you can run the next cell to plot the **ResponseTimes vs Applied Voltages** graph and store the table in a csv file.
+6. Repeat steps 3-5 for the different voltages for which the file exists.
+7. After analysing all the files you can run the next cell to plot the **ResponseTimes vs Applied Voltages** graph.
 8. Run the last cell to push the reults into a csv format in the output directory
