@@ -1,6 +1,6 @@
 # Liquid Crystal Analysis
 Creating a pipeline to analyse Opto-Electric Switching Data of Liquid Crystals
----
+___
 
 ## Setup
 1. Clone the repository using: ```git clone https://github.com/avi1299/Liquid_Crystal_Analysis.git```
@@ -9,7 +9,7 @@ Creating a pipeline to analyse Opto-Electric Switching Data of Liquid Crystals
 4. Start the Juoter Server in the given directory: ```jupyter notebook```
 5. Copy the link for the notebook into your browser
 7. You can now access the Notebook
----
+___
 
 ## Analysis
 1. Start the Analyser.ipynb notebook
