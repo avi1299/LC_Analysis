@@ -11,7 +11,7 @@ ___
 
 ![Link for Notebook](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/Token.png)
 
-7. You can now access the Notebook
+6. You can now access the Notebook
 
 ![StartPage](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/Jupyter_main.png)
 
