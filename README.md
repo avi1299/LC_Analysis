@@ -18,12 +18,13 @@ ___
 2. Change the value of the **path** variable in the noteboook to the directory where the datafiles are kept. Fill in other details such as **name_of_LC** and **temp**
 ![Path](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/Setting_path.png)
 3. On running the cells, you will be asked for input voltage. Give the input. The code will seach for the file of format ```<temp>_<voltage>_2.csv``` and will let you know if it finds it
-![Path](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/EnterV.png)
-![Path](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/EnteredV.png)
+
+![Enter Voltage](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/EnterV.png)
+![Entered Voltage](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/EnteredV.png)
 4. On finding the file, run the next cell to analyse the file. Output graph created in **path/Analysis** directory( will be created if it doesnt exist)
-![Path](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/Analysis_graph.png)
+![Analysis](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/Analysis_graph.png)
 5. If you are satisfied with the graph and output response times, run the next cell to add the response times to a table which will be used to record **ResponseTimes vs Applied Voltages**
-![Path](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/Adding_Results.png)
+![Adding Results](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/Adding_Results.png)
 6. Repeat steps 3-5 for the different voltages for which the file exists.
 7. After analysing all the files you can run the next cell to plot the **ResponseTimes vs Applied Voltages** graph.
 8. Run the last cell to push the reults into a csv format in the output directory
