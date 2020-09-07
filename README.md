@@ -8,6 +8,7 @@ ___
 3. Install the necessary python packages to run the notebook: ```python3 -m pip install -r requirements.txt```
 4. Start the Jupyter Server in the given directory: ```jupyter notebook```
 5. Copy the link for the notebook into your browser
+![Link for Notebook](https://github.com/avi1299/Liquid_Crystal_Analysis/blob/master/Documentation/Images/Token.png)
 7. You can now access the Notebook
 ___
 
