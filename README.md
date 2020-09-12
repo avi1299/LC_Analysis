@@ -42,4 +42,5 @@ ___
 
 6. Repeat steps 3-5 for the different voltages for which the file exists.
 7. After analysing all the files you can run the next cell to plot the **ResponseTimes vs Applied Voltages** graph.
-8. Run the last cell to push the results into a csv file in the output directory
+8. Run the next cell to push the results into a csv file in the output directory
+9. Run subsequent cells to calulate ptoperties of the sample and push them to a **Properties.csv** file.
