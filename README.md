@@ -1,7 +1,8 @@
 # Liquid Crystal Analysis
-This is pipeline to analyse Opto-Electric Switching Data of Liquid Crystals.
-This code was written to perform **quick analysis** of Liquid Crystal Opto-Electric Response Times and plot graphs of the same using **commonly available open-source tools and libraries.**
+This is pipeline to analyse Electro-Optic Switching and Dielectric Data of Liquid Crystals.
+This code was written to perform **quick analysis** of Liquid Crystal Electro-Optic Response Times and plot graphs of the same using **commonly available open-source tools and libraries.** The data is smoothened out by using various Signal processing techiques points of discontinuity are identified and eliminated.
 Apart from the **higher quality graphs** generated, the Data Processing and plotting time and for each file reduces from 5 min to less than a second.
+Module for fitting curves to experimental data has also been implemented.
 ___
 
 ## Setup
